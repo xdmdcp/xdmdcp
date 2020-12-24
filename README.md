@@ -2,7 +2,8 @@
 
 Hi, I'm YuJian95, a Java engineer from China.
 
-- 🌱 I’m currently learning Go Languages
+- 🔭 I’m currently working on Arrow group in china
+- 🌱 I’m currently learning Go Languages and k8s
 
 Languages and Tools:
 
