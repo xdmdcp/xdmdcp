@@ -48,7 +48,7 @@
 
 ## 📈 技术影响力
 
-[![GitHub 编程热力图](https://streak-stats.demolab.com?user=xdmdcp&theme=radical&border_radius=5)](https://github.com/xdmdcp)
+![GitHub 编程热力图](https://streak-stats.demolab.com?user=xdmdcp&theme=radical&border_radius=5)
 
 ---
 
